@@ -1,0 +1,16 @@
+# started on Sat Apr 18 17:14:28 2026
+
+
+ Performance counter stats for 'bash ../workloads/run_cakeshop_workload.sh':
+
+          2,286.16 msec task-clock:u                     #    0.519 CPUs utilized             
+     3,520,324,920      cycles:u                         #    1.540 GHz                       
+     3,393,420,269      instructions:u                   #    0.96  insn per cycle            
+        58,901,284      cache-misses:u                                                        
+
+       4.404676108 seconds time elapsed
+
+       1.563388000 seconds user
+       0.811915000 seconds sys
+
+
